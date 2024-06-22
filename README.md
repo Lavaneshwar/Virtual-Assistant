@@ -29,3 +29,17 @@ This Virtual Assistant can perform a wide range of tasks including speaking, lis
 - Wolframalpha : WolframAlpha API for answering questions
 - Pygame : Playing sounds
 - OS : Operating system interactions
+
+# Libraries used for this project are:
+- Pyttsx3 : Text-to-speech conversion
+- Speech_Recognition : Speech recognition
+- Datetime : Handling date and time
+- Wikipedia : Wikipedia API for fetching information
+- WebBroswer : Opening web pages
+- Pyjokes : Fetching jokes
+- Pywhatkit : Playing YouTube videos
+- Requests : Making HTTP requests
+- Json : Handling JSON data
+- Wolframalpha : WolframAlpha API for answering questions
+- Pygame : Playing sounds
+- OS : Operating system interactions
